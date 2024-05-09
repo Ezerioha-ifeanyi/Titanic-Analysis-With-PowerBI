@@ -1,6 +1,6 @@
 ## Data Analysis With PowerBI
 
-It is through that this is a common data set in the data world that is used for data analysis as well as building ML Models.
+It is true that this is a common data set in the data world that is used for data analysis as well as building ML Models.
 
 This project seeks to understand the happenings during the Titanic Shipwreck.
 
